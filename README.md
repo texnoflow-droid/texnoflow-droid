@@ -45,6 +45,11 @@ Men hozirda Python va zamonaviy veb-texnologiyalarni o‘rganayotgan texnologiya
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/texnoflow-droid/texnoflow-droid/output/github-contribution-grid-snake.svg">
 </picture>
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,postgres,js,ts,html,css,linux,vscode,pycharm,git,github&theme=dark" />
+  </a>
+</p>
 ---
 
 ### ✨ My Typing Skills
