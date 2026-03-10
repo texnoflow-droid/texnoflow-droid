@@ -7,7 +7,7 @@ Men hozirda Python va zamonaviy veb-texnologiyalarni o‘rganayotgan texnologiya
 - 🛠 **Asboblarim:** VS Code, Cursor AI, GitHub, PyCharm.
 - 📢 **Kanalim:** [TECNOTIME](https://t.me/Tecno_Flow)
 -  📢 **Kanalim:** [TECNOTIME](https://t.me/Tecno_Time)
-  - 📢 **Bot:** [TECNOTIME](@marufchat_bot)
+
 
 ---
 
@@ -30,7 +30,11 @@ Men hozirda Python va zamonaviy veb-texnologiyalarni o‘rganayotgan texnologiya
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=texnoflow-droid&layout=compact&theme=radical&hide_border=true" />
 </p>
 ### 📈 Haftalik faoliyat grafigi
-[Faoliyat grafigi](https://github-readme-activity-graph.vercel.app/graph?username=texnoflow-droid&theme=react-dark&area=true&hide_border=true)
+![Faoliyat grafigi](https://github-readme-activity-graph.vercel.app/graph?username=texnoflow-droid&theme=react-dark&area=true&hide_border=true)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Salom,+men+Maruf!;Python+Backend+Developer;AI+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
