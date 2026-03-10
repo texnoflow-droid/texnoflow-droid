@@ -29,6 +29,7 @@ Men hozirda Python va zamonaviy veb-texnologiyalarni o‘rganayotgan texnologiya
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=texnoflow-droid&show_icons=true&theme=radical&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=texnoflow-droid&layout=compact&theme=radical&hide_border=true" />
 </p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=texnoflow-droid&theme=react-dark)
 
 ---
 
