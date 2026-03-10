@@ -5,7 +5,7 @@ Men hozirda Python va zamonaviy veb-texnologiyalarni o‘rganayotgan texnologiya
 
 - 🚀 **Hozirda o'rganyapman:** Python, PostgreSQL, TypeScript, JS.
 - 🛠 **Asboblarim:** VS Code, Cursor AI, GitHub.
-- 📢 **Kanalim:** [TECNOTIME](https://t.me/kanalingiz_linki)
+- 📢 **Kanalim:** [TECNOTIME](https://t.me/Tecno_Flow)
 
 ---
 
