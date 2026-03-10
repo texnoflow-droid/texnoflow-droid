@@ -38,7 +38,7 @@ Men hozirda Python va zamonaviy veb-texnologiyalarni o‘rganayotgan texnologiya
 
 ---
 
-### 🐍 Project
+ 🐍 Project
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/texnoflow-droid/texnoflow-droid/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/texnoflow-droid/texnoflow-droid/output/github-contribution-grid-snake.svg">
@@ -51,12 +51,12 @@ Men hozirda Python va zamonaviy veb-texnologiyalarni o‘rganayotgan texnologiya
   </a>
 </p>
 ---
-### 🏆 
+ 🏆 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-readme-trophy">
     <img src="https://github-readme-trophy.vercel.app/?username=texnoflow-droid&theme=radical&no-bg=true&column=4" alt="github-readme-trophy" />
   </a>
 </p>
 
-### ✨ My Typing Skills
+ ✨ My Typing Skills
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Python+Backend+Developer;AI+Enthusiast;Building+Scalable+Applications;Continuous+Learner)
