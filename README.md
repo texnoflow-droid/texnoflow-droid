@@ -1,13 +1,10 @@
-# 👋 Salom Maruf! (texnoflow-droid)
+👨‍💻 Aspiring Python Backend Developer & AI Enthusiast
+I am a technology enthusiast focused on Python backend development and leveraging cutting-edge AI tools to build scalable applications.
 
-### 👨‍💻 Aspiring Python Backend Developer
-Men hozirda Python va zamonaviy veb-texnologiyalarni o‘rganayotgan texnologiya ishqiboziman.
-
-- 🚀 **Hozirda o'rganyapman:** Python, Django, PostgreSQL, TypeScript, JavaScript.
-- 🛠 **Asboblarim:** VS Code, Cursor AI, GitHub, PyCharm.
-- 📢 **Kanalim:** [TECNOTIME](https://t.me/Tecno_Flow)
--  📢 **Kanalim:** [TECNOTIME](https://t.me/Tecno_Time)
-
+- 🚀 **Currently Learning:** Python, Django, PostgreSQL, TypeScript, and JavaScript.
+- 🛠 **AI-Powered Stack:** Cursor AI, Windsurf, Trae AI, GitHub Copilot, and Qoder.
+- 💻 **IDE & Tools:** VS Code, PyCharm, Git, and Linux.
+- 📢 **Telegram Channels:** [TECNOTIME (Main)](https://t.me/Tecno_Flow) | [TECNOTIME (Tech)](https://t.me/Tecno_Time)
 
 ---
 
