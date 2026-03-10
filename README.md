@@ -36,7 +36,7 @@ Men hozirda Python va zamonaviy veb-texnologiyalarni o‘rganayotgan texnologiya
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Salom,+men+Maruf!;Python+Backend+Developer;AI+Enthusiast" alt="Typing SVG" />
 </p>
 
----
+
 
  🐍 Project
 <picture>
@@ -50,7 +50,7 @@ Men hozirda Python va zamonaviy veb-texnologiyalarni o‘rganayotgan texnologiya
     <img src="https://skillicons.dev/icons?i=python,django,postgres,js,ts,html,css,linux,vscode,pycharm,git,github&theme=dark" />
   </a>
 </p>
----
+
  🏆 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-readme-trophy">
@@ -58,5 +58,5 @@ Men hozirda Python va zamonaviy veb-texnologiyalarni o‘rganayotgan texnologiya
   </a>
 </p>
 
- ✨ My Typing Skills
-![(https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Python+Backend+Developer;AI+Enthusiast;Building+Scalable+Applications;Continuous+Learner)
+ 
+(https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Python+Backend+Developer;AI+Enthusiast;Building+Scalable+Applications;Continuous+Learner)
