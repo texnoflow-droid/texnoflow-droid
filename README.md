@@ -8,7 +8,14 @@ I am a technology enthusiast focused on Python backend development and leveragin
 - 💻 **IDE & Tools:** VS Code, PyCharm, Git, and Linux.
 - 📢 **Telegram Channels:** [TECNOTIME (Main)](https://t.me/Tecno_Flow) | [TECNOTIME (Tech)](https://t.me/Tecno_Time)
 
----
+### 🛠 Languages and Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🛠 Skills & AI Tools
 <p align="left">
