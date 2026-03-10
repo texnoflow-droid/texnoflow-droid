@@ -59,4 +59,5 @@ Men hozirda Python va zamonaviy veb-texnologiyalarni o‘rganayotgan texnologiya
 </p>
 
  
-(https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Python+Backend+Developer;AI+Enthusiast;Building+Scalable+Applications;Continuous+Learner)
+### ✨ My Goals
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Python+Backend+Developer;AI+Enthusiast;Building+Scalable+Applications;Continuous+Learner)
