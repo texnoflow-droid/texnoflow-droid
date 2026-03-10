@@ -1,4 +1,4 @@
-# 👋 Salom, men Maruf! (texnoflow-droid)
+
 
 ### 👨‍💻 Aspiring Python Backend Developer
 Men hozirda Python va zamonaviy veb-texnologiyalarni o‘rganayotgan texnologiya ishqiboziman.
