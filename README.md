@@ -1,4 +1,4 @@
-# 👋 Salom, men Maruf! (texnoflow-droid)
+# 👋 Salom Maruf! (texnoflow-droid)
 
 ### 👨‍💻 Aspiring Python Backend Developer
 Men hozirda Python va zamonaviy veb-texnologiyalarni o‘rganayotgan texnologiya ishqiboziman.
@@ -32,7 +32,7 @@ Men hozirda Python va zamonaviy veb-texnologiyalarni o‘rganayotgan texnologiya
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### 🐍 Project
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/texnoflow-droid/texnoflow-droid/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/texnoflow-droid/texnoflow-droid/output/github-contribution-grid-snake.svg">
