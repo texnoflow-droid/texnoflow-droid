@@ -85,3 +85,34 @@ I am a technology enthusiast currently learning Python and modern web technologi
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=100&section=footer" width="100%"/>
 </div>
+
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="LINKINGIZNI_SHU_YERGA_QOYING" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/Tecno_Flow" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="LINKINGIZNI_SHU_YERGA_QOYING" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="LINKINGIZNI_SHU_YERGA_QOYING" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="LINKINGIZNI_SHU_YERGA_QOYING" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
+
+> [!TIP]
+> **Bio:** Aspiring Python Backend Developer and AI Enthusiast. I specialize in building scalable systems and integrating AI tools into modern development workflows. Open to collaborations and networking!
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=100&section=footer" width="100%"/>
+</div>
