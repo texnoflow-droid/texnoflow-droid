@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=220&section=header&text=Men%20Maruf!%20👋&fontSize=70&animation=fadeIn&fontColor=ffffff&desc=Aspiring%20Python%20Backend%20Developer%20|%20AI%20Coding%20Expert&descAlign=50&descAlignVertical=170" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=220&section=header&text=I'm%20Maruf!%20👋&fontSize=70&animation=fadeIn&fontColor=ffffff&desc=Aspiring%20Python%20Backend%20Developer%20|%20AI%20Coding%20Expert&descAlign=50&descAlignVertical=170" width="100%"/>
 </div>
 
 <br/>
@@ -8,22 +8,24 @@
   <tr>
     <td width="55%" valign="top">
       
-### 👨‍💻 Men Haqimda
-Hozirda Python va zamonaviy veb-texnologiyalarni o'rganayotgan texnologiya ishqiboziman. Mening asosiy maqsadim — sun'iy intellekt (AI) kuchidan foydalangan holda samarali va kengaytiriladigan backend yechimlarini yaratish.
+### 👨‍💻 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3776AB&width=435&lines=Technology+enthusiast;Focusing+on+Python+Backend;Building+AI-powered+solutions;Passionate+about+scalability" alt="Typing SVG" />
 
-- 🚀 **Asosiy yo'nalish:** Python Backend & AI Integration
-- 🎯 **Kelajakdagi reja:** Senior Backend Developer
-- 📢 **Kanalim:** [TECNOTIME](https://t.me/Tecno_Flow)
+I am a technology enthusiast currently learning Python and modern web technologies. My primary goal is to leverage the power of Artificial Intelligence (AI) to build efficient and scalable backend solutions.
+
+- 🚀 **Main Focus:** Python Backend & AI Integration
+- 🎯 **Career Goal:** Senior Backend Developer
+- 📢 **Channel:** [TECNOTIME](https://t.me/Tecno_Flow)
 
     </td>
     <td width="45%" valign="top">
       
-### 💡 Joring Maqsadlarim
-![Goal Progress](https://img.shields.io/badge/Learning-Python%2FDjango-blue.svg?style=flat-square&logo=python&logoColor=white) 
-![Goal Progress](https://img.shields.io/badge/Learning-TypeScript-blue.svg?style=flat-square&logo=typescript&logoColor=white)
-![Goal Progress](https://img.shields.io/badge/Learning-PostgreSQL-blue.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Goal Progress](https://img.shields.io/badge/Building-Portfolio%20Projects-green.svg?style=flat-square&logo=github&logoColor=white)
-![Goal Progress](https://img.shields.io/badge/Exploring-AI%20Coding-orange.svg?style=flat-square&logo=openai&logoColor=white)
+### 💡 Current Goals
+![Goal Progress](https://img.shields.io/badge/Learning-Python%2FDjango-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Goal Progress](https://img.shields.io/badge/Learning-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Goal Progress](https://img.shields.io/badge/Learning-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Goal Progress](https://img.shields.io/badge/Building-Portfolio%20Projects-2EA043?style=for-the-badge&logo=github&logoColor=white)
+![Goal Progress](https://img.shields.io/badge/Exploring-AI%20Coding-FF8C00?style=for-the-badge&logo=openai&logoColor=white)
 
     </td>
   </tr>
@@ -31,7 +33,7 @@ Hozirda Python va zamonaviy veb-texnologiyalarni o'rganayotgan texnologiya ishqi
 
 ---
 
-### 🛠 Texnologiyalar & Ko'nikmalarim (Barchasi bir joyda)
+### 🛠 Tech Stack & Tools (All in one)
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -50,7 +52,7 @@ Hozirda Python va zamonaviy veb-texnologiyalarni o'rganayotgan texnologiya ishqi
 
 ---
 
-### 📊 Statistika va Yutuqlar (Keng ko'rinish)
+### 📊 Stats & Achievements
 
 <div align="center">
   <img src="https://github-readme-trophy.vercel.app/?username=texnoflow-droid&theme=radical&no-bg=true&column=6" width="100%" alt="github-readme-trophy" />
@@ -71,7 +73,7 @@ Hozirda Python va zamonaviy veb-texnologiyalarni o'rganayotgan texnologiya ishqi
 
 ---
 
-### 🐍 GitHub Hisbasi Ioloni
+### 🐍 GitHub Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/texnoflow-droid/texnoflow-droid/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/texnoflow-droid/texnoflow-droid/output/github-contribution-grid-snake.svg">
