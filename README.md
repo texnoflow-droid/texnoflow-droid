@@ -82,9 +82,6 @@ I am a technology enthusiast currently learning Python and modern web technologi
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=100&section=footer" width="100%"/>
-</div>
 
 
 ---
