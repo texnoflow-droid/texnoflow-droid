@@ -26,12 +26,6 @@ I am a technology enthusiast focused on Python backend development and leveragin
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-readme-trophy">
-    <img src="https://github-readme-trophy.vercel.app/?username=texnoflow-droid&theme=radical&no-bg=true&column=4" alt="github-readme-trophy" />
-  </a>
-</p>
 
 ---
 
@@ -53,6 +47,13 @@ I am a technology enthusiast focused on Python backend development and leveragin
 </picture>
 
 ---
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-readme-trophy">
+    <img src="https://github-readme-trophy.vercel.app/?username=texnoflow-droid&theme=radical&no-bg=true&column=4" alt="github-readme-trophy" />
+  </a>
+</p>
+
 
 ### ✨ My Status
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Python+Backend+Developer;AI+Coding+Expert;Building+with+Windsurf+%26+Trae;Continuous+Learner)
