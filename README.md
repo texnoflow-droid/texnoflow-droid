@@ -29,15 +29,6 @@ I am a technology enthusiast focused on Python backend development and leveragin
 
 ---
 
-### 📊 GitHub Stats & Activity
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=texnoflow-droid&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=texnoflow-droid&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=texnoflow-droid&theme=react-dark&area=true&hide_border=true)
-
----
 
 ### 🐍 Active moon
 <picture>
@@ -53,6 +44,18 @@ I am a technology enthusiast focused on Python backend development and leveragin
     <img src="https://github-readme-trophy.vercel.app/?username=texnoflow-droid&theme=radical&no-bg=true&column=4" alt="github-readme-trophy" />
   </a>
 </p>
+
+
+
+### 📊 GitHub Stats & Activity
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=texnoflow-droid&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=texnoflow-droid&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=texnoflow-droid&theme=react-dark&area=true&hide_border=true)
+
+---
 
 
 ### ✨ My Status
