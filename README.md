@@ -105,6 +105,9 @@ I am a technology enthusiast currently learning Python and modern web technologi
   <a href="LINKINGIZNI_SHU_YERGA_QOYING" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
+  <a href="tel:+998XXXXXXXXX" target="_blank">
+    <img src="https://img.shields.io/badge/Phone-34A853?style=for-the-badge&logo=icloud&logoColor=white" alt="Phone" />
+  </a>
 </p>
 
 > [!TIP]
