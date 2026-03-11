@@ -59,6 +59,9 @@ I am a technology enthusiast currently learning Python and modern web technologi
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/texnoflow-droid/texnoflow-droid/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=texnoflow-droid&theme=radical&hide_border=true" width="100%" />
+</div>
 
 ### 📊 Stats & Achievements
 
