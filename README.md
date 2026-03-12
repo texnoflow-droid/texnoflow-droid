@@ -20,17 +20,64 @@ I am a technology enthusiast currently learning Python and modern web technologi
     </td>
     <td width="45%" valign="top">
       
-### 💡 Current Goals
-![Goal Progress](https://img.shields.io/badge/Learning-Python%2FDjango-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Goal Progress](https://img.shields.io/badge/Learning-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Goal Progress](https://img.shields.io/badge/Learning-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Goal Progress](https://img.shields.io/badge/Building-Portfolio%20Projects-2EA043?style=for-the-badge&logo=github&logoColor=white)
-![Goal Progress](https://img.shields.io/badge/Exploring-AI%20Coding-FF8C00?style=for-the-badge&logo=openai&logoColor=white)
+<h1 align="center">👋 Salom, men Maruf!</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Python+Backend+Developer;Django+Specialist;Open+Source+Enthusiast" alt="Typing SVG" />
+</p>
+
+---
+
+### 🚀 Men haqimda
+- 💻 **Backend:** Python & Django bilan kuchli va xavfsiz tizimlar quraman.
+- 🌐 **Frontend:** Zamonaviy va interaktiv foydalanuvchi interfeyslari ustida ishlayman.
+- ⚙️ **Tizim:** Linux muhitida ishlash va serverlarni sozlashga qiziqaman.
+
+---
+
+### 💡 Hozirgi Maqsadlar va Texnologiyalar
+
+<table align="center">
+  <tr>
+    <td align="left" width="100%">
+      
+      <h4>🖥 Backend Stack</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <br><br>
+
+      <h4>🎨 Frontend & Web</h4>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <br><br>
+
+      <h4>🛠 Tools & Skills</h4>
+      <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI_Coding-FF8C00?style=for-the-badge&logo=openai&logoColor=white" />
+      
     </td>
   </tr>
 </table>
 
+---
+
+### 📊 GitHub Statistikam
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="170px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+</p>
 ---
 
 ### 🛠 Tech Stack & Tools (All in one)
