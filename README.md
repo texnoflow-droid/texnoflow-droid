@@ -10,9 +10,7 @@
 
 <div align="center">
   <video src="BU_YERGA_O_SHA_YUKLANGAN_VIDEO_LINKINI_QOYING" width="100%" autoplay loop muted playsinline style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);"></video>
-  <p align="center"><i>"Turning logic into art, one line at a time." 🌙</i></p>
-</div>
-<div align="center">
+  <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Oyning%20suvdagi%20aksi%20chiroyli%20bo'ladi&textBg=false&desc=Ammo%20unga%20qo'l%20tekissang%20loyqa%20suvni%20yashirib%20turgan%20tasvirni%20ko'rasan&descAlignVertical=65&descAlign=50&fontSize=25&animation=fadeIn&fontColor=ffffff" width="100%" />
 </div>
 
@@ -25,7 +23,7 @@
 ### 👨‍💻 About Me
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3776AB&width=435&lines=Technology+enthusiast;Focusing+on+Python+Backend;Building+AI-powered+solutions;Passionate+about+scalability" alt="Typing SVG" />
 
-I am a backend-focused developer specializing in Python and the Django framework. I am passionate about independent thinking and leveraging cutting-edge AI tools to build modern, high-performance applications.
+I am a backend-focused developer specializing in Python and the Django framework. I am passionate about independent thinking and leveraging cutting-edge AI tools.
 
 - 🚀 **Main Focus:** Python Backend & AI Agents
 - 🎯 **Career Goal:** Engineering roles at global tech firms
@@ -36,7 +34,6 @@ I am a backend-focused developer specializing in Python and the Django framework
       
 ### 💡 Current Focus
 ![Goal](https://img.shields.io/badge/Learning-Python%2FDjango-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Goal](https://img.shields.io/badge/Learning-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Goal](https://img.shields.io/badge/Learning-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Goal](https://img.shields.io/badge/Exploring-AI%20Coding-FF8C00?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -49,11 +46,11 @@ I am a backend-focused developer specializing in Python and the Django framework
 ### 🛠 AI-Powered IDEs & Productivity
 <div align="center">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux&theme=dark" height="50" />
-    <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-    <img src="https://img.shields.io/badge/Windsurf-1E90FF?style=for-the-badge&logo=airplay&logoColor=white" />
-    <img src="https://img.shields.io/badge/Trae%20AI-6A5ACD?style=for-the-badge&logo=rocket&logoColor=white" />
-    <img src="https://img.shields.io/badge/Qoder-FF4500?style=for-the-badge&logo=lightning&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux&theme=dark" height="60" />
+    <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white" height="42" />
+    <img src="https://img.shields.io/badge/Windsurf-1E90FF?style=for-the-badge&logo=airplay&logoColor=white" height="42" />
+    <img src="https://img.shields.io/badge/Trae%20AI-6A5ACD?style=for-the-badge&logo=rocket&logoColor=white" height="42" />
+    <img src="https://img.shields.io/badge/Qoder-FF4500?style=for-the-badge&logo=lightning&logoColor=white" height="42" />
   </p>
 </div>
 
@@ -66,7 +63,13 @@ I am a backend-focused developer specializing in Python and the Django framework
 
 ---
 
-### 📊 GitHub Analysis & Streak
+### 🏆 GitHub Stats & Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=texnoflow-droid&theme=radical&no-bg=true&margin-w=15&column=6" width="100%" />
+</div>
+
+<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=texnoflow-droid&theme=radical&hide_border=true" width="100%" />
 </div>
@@ -109,16 +112,10 @@ I am a backend-focused developer specializing in Python and the Django framework
   <a href="LINK_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="LINK_INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="LINK_YOUTUBE" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
 </p>
 
 > [!TIP]
-> **Bio:** Building the next generation of AI-integrated backend systems. Focused on clean code, scalability, and independent problem-solving.
+> **Bio:** Building the next generation of AI-integrated backend systems. Focused on clean code and scalability.
 
 ---
 
