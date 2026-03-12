@@ -10,9 +10,7 @@
 
 <div align="center">
   <video src="BU_YERGA_O_SHA_YUKLANGAN_VIDEO_LINKINI_QOYING" width="100%" autoplay loop muted playsinline style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);"></video>
-  <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=Architecting%20the%20Future%20with%20Python%20%26%20AI%20Agents%20🤖&fontSize=35&animation=fadeIn&fontColor=3776AB" width="100%" />
-</div>
+  <p align="center"><i>"Turning logic into art, one line at a time." 🌙</i></p>
 </div>
 
 <br/>
@@ -48,11 +46,11 @@ I am a backend-focused developer specializing in Python and the Django framework
 ### 🛠 AI-Powered IDEs & Productivity
 <div align="center">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux&theme=dark" height="60" />
-    <a href="#"><img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white" height="42" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Windsurf-1E90FF?style=for-the-badge&logo=airplay&logoColor=white" height="42" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Trae%20AI-6A5ACD?style=for-the-badge&logo=rocket&logoColor=white" height="42" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Qoder-FF4500?style=for-the-badge&logo=lightning&logoColor=white" height="42" /></a>
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux&theme=dark" height="50" />
+    <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windsurf-1E90FF?style=for-the-badge&logo=airplay&logoColor=white" />
+    <img src="https://img.shields.io/badge/Trae%20AI-6A5ACD?style=for-the-badge&logo=rocket&logoColor=white" />
+    <img src="https://img.shields.io/badge/Qoder-FF4500?style=for-the-badge&logo=lightning&logoColor=white" />
   </p>
 </div>
 
