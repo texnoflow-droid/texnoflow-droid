@@ -12,6 +12,9 @@
   <video src="BU_YERGA_O_SHA_YUKLANGAN_VIDEO_LINKINI_QOYING" width="100%" autoplay loop muted playsinline style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);"></video>
   <p align="center"><i>"Turning logic into art, one line at a time." 🌙</i></p>
 </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Oyning%20suvdagi%20aksi%20chiroyli%20bo'ladi&textBg=false&desc=Ammo%20unga%20qo'l%20tekissang%20loyqa%20suvni%20yashirib%20turgan%20tasvirni%20ko'rasan&descAlignVertical=65&descAlign=50&fontSize=25&animation=fadeIn&fontColor=ffffff" width="100%" />
+</div>
 
 <br/>
 
