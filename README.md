@@ -62,6 +62,16 @@ I am a backend-focused developer specializing in Python and the Django framework
 </div>
 
 ---
+<div align="center">
+  <img src="https://metrics.lecoq.io/texnoflow-droid?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&base.indepth=false&config.timezone=Asia%2FTashkent&config.display=regular&config.rendered=svg" width="100%" alt="GitHub Metrics" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=texnoflow-droid&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=texnoflow-droid&layout=compact&theme=radical&hide_border=true" width="48%" />
+</div>
 
 ### 🏆 GitHub Stats & Achievements
 <div align="center">
