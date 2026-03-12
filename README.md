@@ -69,7 +69,11 @@ I am a backend-focused developer specializing in Python and the Django framework
 </div>
 
 <br/>
-
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=texnoflow-droid&theme=radical&no-bg=false&margin-w=15&column=5&rank=SSS,SS,S,AAA,AA,A,B,C,Unknown" alt="github trophy" />
+  </a>
+</div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=texnoflow-droid&theme=radical&hide_border=true" width="100%" />
 </div>
