@@ -29,8 +29,7 @@ I am a backend-focused developer specializing in Python and the Django framework
 - 🎯 **Career Goal:** Engineering roles at global tech firms
 - 📢 **Channel:** [TECNOTIME](https://t.me/Tecno_Flow)
 
-    </td>
-    <td width="45%" valign="top">
+   
       
 ### 💡 Current Focus
 ![Goal](https://img.shields.io/badge/Learning-Python%2FDjango-3776AB?style=for-the-badge&logo=python&logoColor=white) 
