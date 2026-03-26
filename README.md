@@ -6,12 +6,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=220&section=header&text=I'm%20Maruf!%20👋&fontSize=70&animation=fadeIn&fontColor=ffffff&desc=Python%20Backend%20Developer%20|%20AI%20Coding%20Expert&descAlign=50&descAlignVertical=170" width="100%"/>
 </div>
 
-<br/>
-
 <div align="center">
-  <video src="BU_YERGA_O_SHA_YUKLANGAN_VIDEO_LINKINI_QOYING" width="100%" autoplay loop muted playsinline style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);"></video>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f0fff4&height=220&section=footer&text=Oyning%20suvdagi%20aksi%20chiroyli%20bo'ladi&textBg=false&desc=Ammo%20unga%20qo'l%20tekissang%20loyqa%20suvni%20yashirib%20turgan%20tasvirni%20ko'rasan&descAlignVertical=170&descAlign=50&fontSize=25&animation=fadeIn&fontColor=0a2f1c" width="100%" />
+  
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Oyning%20suvdagi%20aksi%20chiroyli%20bo'ladi&textBg=false&desc=Ammo%20unga%20qo'l%20tekissang%20loyqa%20suvni%20yashirib%20turgan%20tasvirni%20ko'rasan&descAlignVertical=65&descAlign=50&fontSize=25&animation=fadeIn&fontColor=ffffff" width="100%" />
+  
+  <video src="BU_YERGA_O_SHA_YUKLANGAN_VIDEO_LINKINI_QOYING" width="100%" autoplay loop muted playsinline style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);"></video>
 </div>
 
 <br/>
