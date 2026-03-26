@@ -16,9 +16,9 @@
 
 <br/>
 
-<table align="center" width="100%" cellpadding="10">
+<!-- <table align="center" width="100%" cellpadding="10">
   <tr>
-    <td width="55%" valign="top">
+    <td width="55%" valign="top"> -->
       
 ### 👨‍💻 About Me
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=3776AB&width=435&lines=Technology+enthusiast;Focusing+on+Python+Backend;Building+AI-powered+solutions;Passionate+about+scalability" alt="Typing SVG" />
