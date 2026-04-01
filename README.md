@@ -70,6 +70,17 @@ I am a backend-focused developer specializing in Python and the Django framework
   <img src="https://github-profile-trophy.vercel.app/?username=texnoflow-droid&theme=radical&no-bg=true&margin-w=15&column=6" width="100%" />
 </div>
 
+<br/>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=texnoflow-droid&theme=radical&no-bg=false&margin-w=15&column=5&rank=SSS,SS,S,AAA,AA,A,B,C,Unknown" alt="github trophy" />
+  </a>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=texnoflow-droid&theme=radical&hide_border=true" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=texnoflow-droid&show_icons=true&theme=radical&hide_border=true&count_private=true" />
@@ -117,16 +128,3 @@ I am a backend-focused developer specializing in Python and the Django framework
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=100&section=footer" width="100%"/>
 </div>
-
-
-<br/>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=texnoflow-droid&theme=radical&no-bg=false&margin-w=15&column=5&rank=SSS,SS,S,AAA,AA,A,B,C,Unknown" alt="github trophy" />
-  </a>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=texnoflow-droid&theme=radical&hide_border=true" width="100%" />
-</div>
-
-<br/>
