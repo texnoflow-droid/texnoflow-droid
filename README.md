@@ -106,10 +106,10 @@ I am a backend-focused developer specializing in Python and the Django framework
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="tel:+998XXXXXXXXX" target="_blank">
+  <a href="tel:+998942751427" target="_blank">
     <img src="https://img.shields.io/badge/Phone-34A853?style=for-the-badge&logo=icloud&logoColor=white" />
   </a>
-  <a href="mailto:maruf.dev@gmail.com" target="_blank">
+  <a href="mailto:marufalixoja@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/Tecno_Flow" target="_blank">
